@@ -19,7 +19,7 @@ const trendingPosts: Post[] = [
     avatar: 'https://i.pravatar.cc/150?u=marie',
     title: 'Éternité',
     description: 'A timeless blend that has captivated thousands. Pure elegance in every drop.',
-    image: 'https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400',
+    image: 'https://cdn.shopify.com/s/files/1/0271/6071/files/Lady_with_perfume-1800.jpg?v=1527177747',
     rating: 4.9,
     likes: 3420,
     comments: [
@@ -38,7 +38,7 @@ const trendingPosts: Post[] = [
     avatar: 'https://i.pravatar.cc/150?u=alexander',
     title: 'Imperial Oud',
     description: 'A commanding presence. For those who demand attention.',
-    image: 'https://images.unsplash.com/photo-1519669011783-4eaa95fa1b7d?w=400',
+    image: 'https://www.yslbeautyth.com/dw/image/v2/BFZM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw9078db30/images/fragrance-free/WW-50424YSL/WW-50424YSL-3614272648425-90ml-IMAGE1.jpg?sw=1080&sh=1080&sm=cut&sfrm=png&q=85',
     rating: 4.8,
     likes: 2890,
     comments: [
@@ -74,7 +74,7 @@ const trendingPosts: Post[] = [
     avatar: 'https://i.pravatar.cc/150?u=sebastian',
     title: 'Midnight Velvet',
     description: 'Dark, mysterious, and utterly captivating.',
-    image: 'https://images.unsplash.com/photo-1557170334-a9632e77c6e4?w=400',
+    image: 'https://www.instyle.com/thmb/IyVNg6eRW8KIsnA2zYbGEVSPsv8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011426-perfume-436986895da74f38908978af5720d868.jpg',
     rating: 4.8,
     likes: 2156,
     comments: [],
@@ -88,7 +88,7 @@ const trendingPosts: Post[] = [
     avatar: 'https://i.pravatar.cc/150?u=victoria',
     title: 'Côte d\'Azur',
     description: 'Mediterranean breeze in a bottle. Summer essential.',
-    image: 'https://images.unsplash.com/photo-1541643600914-78b084683601?w=400',
+    image: 'https://cdn.shopify.com/s/files/1/0436/4012/7649/files/Perfume-Scents.jpg?v=1630654940',
     rating: 4.6,
     likes: 1876,
     comments: [
